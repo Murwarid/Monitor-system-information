@@ -1,0 +1,23 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/bayaqra.png</file>
+    <file>icons/search.svg</file>
+    <file>icons/need.png</file>
+    <file>icons/coffee.svg</file>
+    <file>icons/dollar-sign.svg</file>
+    <file>icons/youtube.svg</file>
+    <file>icons/disc.svg</file>
+    <file>icons/thermometer.svg</file>
+    <file>icons/wifi.svg</file>
+    <file>icons/activity.svg</file>
+    <file>icons/monitor.svg</file>
+    <file>icons/battery-charging.svg</file>
+    <file>icons/cpu.svg</file>
+    <file>icons/airplay.svg</file>
+    <file>icons/align-left.svg</file>
+    <file>icons/maximize-2.svg</file>
+    <file>icons/minimize-2.svg</file>
+    <file>icons/minus.svg</file>
+    <file>icons/x.svg</file>
+  </qresource>
+</RCC>
